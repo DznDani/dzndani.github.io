@@ -1,2 +1,2 @@
-# dzndani.github.io
-Personal Site lol
+# Personal Site
+This is self explanatory, but is basically a portfolio/about me idk really
