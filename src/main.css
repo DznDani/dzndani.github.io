@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+html {
+  background-color: black;
+}
+
+.bgnav {
+  display: flex;
+  justify-content: center;
+  border-radius: 24px;
+  background: rgb(30, 30, 30);
+  background: radial-gradient(circle, rgb(30, 30, 30) 25%, rgba(2, 0, 36, 0) 100%);
+}
+
+.titlebar {
+  text-align: center;
+  font-family: "Lexend", sans-serif;
+  color: whitesmoke;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}/*# sourceMappingURL=main.css.map */
